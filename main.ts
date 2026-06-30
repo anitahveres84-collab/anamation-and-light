@@ -17,4 +17,4 @@ let Player_1 = sprites.create(img`
     . . . . . . b b b b 3 d d d b a 
     . . . . . . . . . . b b b 3 a . 
     `, SpriteKind.Player)
-controller.moveSprite(Player_1, 90, 90)
+controller.moveSprite(Player_1, 100, 100)
